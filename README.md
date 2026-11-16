@@ -1,3 +1,5 @@
+[![Deploy on Railway](https://railway.com/button.svg)](https://railway.com/new/template/litellm-2?utm_medium=integration&utm_source=button&utm_campaign=litellm)
+
 # LiteLLM on Railway
 
 A Railway template for [LiteLLM](https://github.com/BerriAI/litellm), the open-source AI gateway: one OpenAI-compatible API in front of 100+ model providers, with virtual keys, budgets, rate limits, spend tracking and an Admin UI.
